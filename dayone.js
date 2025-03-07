@@ -1,4 +1,4 @@
-//comments can make code readable
+//comments can make code readable  
 //welcome to 30DaysOfJavaScript
 /*comments
 can make
