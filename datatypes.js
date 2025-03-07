@@ -1,0 +1,5 @@
+console.log(typeof "Yusif Mumuni")
+console.log(typeof 'Ghana')
+console.log(typeof false)
+console.log(typeof null)
+console.log(typeof undefined)
